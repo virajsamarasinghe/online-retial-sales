@@ -41,6 +41,12 @@ The dashboard provides high-end business intelligence insights:
 - **Temporal Trends:** Monthly growth trajectory and cross-country comparisons.
 - **Market Share:** Visualization of dominance by monthly leaders.
 
+### Dashboard Preview
+![Executive Metrics](images/Screenshot%202026-03-15%20at%2001.10.29.png)
+![Geographic Analysis](images/Screenshot%202026-03-15%20at%2001.10.57.png)
+![Temporal Trends](images/Screenshot%202026-03-15%20at%2001.11.12.png)
+![Market Share Leaders](images/Screenshot%202026-03-15%20at%2001.11.34.png)
+
 ## Project Overview
 * **Dataset Size:** 541,909 records
 * **Processing Model:** 5-Stage Distributed MapReduce Pipeline
