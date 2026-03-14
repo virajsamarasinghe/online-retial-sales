@@ -1,0 +1,17 @@
+# Python build/cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Java build artifacts
+target/
+*.class
+
+# IDE and OS settings
+.vscode/
+.DS_Store
+.idea/
+
+# Large data files
+data/*.csv
